@@ -1,0 +1,17 @@
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\nKatmanliOrnek.exe.config
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\nKatmanliOrnek.exe
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\nKatmanliOrnek.pdb
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\DataAccessLayer.dll
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\EntityLayer.dll
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\LogicLayer.dll
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\DataAccessLayer.pdb
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\EntityLayer.pdb
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\bin\Debug\LogicLayer.pdb
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.Form1.resources
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.Properties.Resources.resources
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.csproj.CopyComplete
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.exe
+C:\Users\melik\source\repos\nKatmanliOrnek\nKatmanliOrnek\obj\Debug\nKatmanliOrnek.pdb
